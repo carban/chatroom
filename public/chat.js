@@ -1,3 +1,4 @@
+// io es cargado debido a que se llama desde un scrip en index.html
 const socket = io();
 
 // DOM Elements
